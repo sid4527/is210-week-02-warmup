@@ -13,17 +13,12 @@ Warm-Up Tasks
 Overview
 ========
 
-The warm-up tasks this week will focus on general git repository tasks. You'll
-be tasked to manipulate files with git's tools prior to submitting the work
-through the git pull request workflow.
+The warm-up tasks this week will focus on general python file structure.
 
 Instructions
 ============
 
-The following tasks will either have you interacting with existing files in
-the assignment repository or creating new ones on the fly. Don't forget to add
-your interpreter directive, utf-8 encoding, and a short docstring with any new
-files that you create!
+Add your interpreter directive, utf-8 encoding, and a short docstring.
 
 .. important::
 
@@ -44,7 +39,7 @@ Warm-Up Tasks
 
 
 
-Task 05
+Task 01
 -------
 
 As we discussed in the *Concepts and Terms* document, executable Python files
@@ -57,17 +52,8 @@ Specifications
 1.  Edit ``task_05.py`` and add an interpreter directive in the proper
     location.
 
-2.  Use ``git status`` to check that git sees your unstaged file.
 
-3.  Use the ``git add`` command to add this file to staging for the next
-    commit.
-
-4.  Use ``git status`` to check that your changes are properly staged for
-    committing.
-
-5.  Use ``git commit`` to commit your change into the repository.
-
-Task 06
+Task 02
 -------
 
 The encoding statement is as, if-not more, important to add to your Python
@@ -81,15 +67,7 @@ Specifications
 1.  Edit ``task_06.py`` and add an coding statement in the appropriate
     location.
 
-2.  Use ``git status`` to check that git sees your unstaged file.
 
-3.  Use the ``git add`` command to add this file to staging for the next
-    commit.
-
-4.  Use ``git status`` to check that your changes are properly staged for
-    committing.
-
-5.  Use ``git commit`` to commit your change into the repository.
 
 Executing Tests
 ===============
