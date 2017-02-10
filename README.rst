@@ -49,7 +49,7 @@ to be missing one!
 Specifications
 ^^^^^^^^^^^^^^
 
-1.  Edit ``task_05.py`` and add an interpreter directive in the proper
+1.  Edit ``task_01.py`` and add an interpreter directive in the proper
     location.
 
 
@@ -64,7 +64,7 @@ for this task.
 Specifications
 ^^^^^^^^^^^^^^
 
-1.  Edit ``task_06.py`` and add an coding statement in the appropriate
+1.  Edit ``task_02.py`` and add an coding statement in the appropriate
     location.
 
 
